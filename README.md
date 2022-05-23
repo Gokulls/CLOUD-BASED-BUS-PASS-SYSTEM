@@ -1,2 +1,8 @@
-# CLOUD-BASED-BUS-PASS-SYSTEM
-The website has been hosted in 000WebHost
+# Cloud-Based-Buss-Pass-System
+Mini Project
+
+produced by 
+~Gokul Gopalakrishnan
+~Jadhav Akshay Hambirrao
+~Keval Nitesh Parakhiya
+~Singh Ronak Ravendra
